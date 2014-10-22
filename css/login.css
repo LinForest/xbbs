@@ -1,0 +1,20 @@
+body{
+	width:100%;
+	height:100%;
+	margin:0px;
+	padding:0px;
+	background:#CCCCFF;
+}
+#container{
+	padding:10px;
+	background:#99CC00;
+	width:980px;
+	height:600px;
+	margin:auto;
+	margin-top:10px;
+}
+#form{
+	width:300px;
+	margin:auto;
+	margin-top:80px;		
+}
